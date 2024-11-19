@@ -1,1 +1,1 @@
-# joke-app
+# pet-app
